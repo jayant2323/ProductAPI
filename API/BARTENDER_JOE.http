@@ -1,0 +1,6 @@
+@BARTENDER_JOE_HostAddress = http://localhost:5159
+
+GET {{BARTENDER_JOE_HostAddress}}/product/
+Accept: application/json
+
+###

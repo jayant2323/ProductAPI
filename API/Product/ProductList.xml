@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductList>
+	<Product>
+		<Id>1</Id>
+		<Name>MILK</Name>
+		<State>READY TO MIX</State>
+		<Output>MILK SHAKE</Output>
+	</Product>
+	<Product>
+		<Id>2</Id>
+		<Name>ORANGE</Name>
+		<State>READY TO MIX</State>
+		<Output>ORANGE JUICE</Output>
+	</Product>
+</ProductList>
