@@ -1,18 +1,16 @@
 {
-  "ProductList": {
-    "Product": [
-      {
-        "Id": "1",
-        "Name": "MILK",
-        "State": "READY TO MIX",
-        "Output": "MILK SHAKE"
-      },
-      {
-        "Id": "2",
-        "Name": "ORANGE",
-        "State": "READY TO MIX",
-        "Output": "ORANGE JUICE"
-      }
-    ]
-  }
+  "Product": [
+    {
+      "Id": "1",
+      "Name": "MILK",
+      "State": "READY TO MIX",
+      "Output": "MILK SHAKE"
+    },
+    {
+      "Id": "2",
+      "Name": "ORANGE",
+      "State": "READY TO MIX",
+      "Output": "ORANGE JUICE"
+    }
+  ]
 }
